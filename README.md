@@ -18,7 +18,7 @@ A diverse collection of mobile UI products designed using tools like Figma, Phot
 
 
 
-4. Food Delivery Ap
+4. Food Delivery App
 
 <img src="https://github.com/user-attachments/assets/8b01e071-e702-48f4-b3a5-6dd5b6399df9" alt="IMG_7029" width="80%">
 
