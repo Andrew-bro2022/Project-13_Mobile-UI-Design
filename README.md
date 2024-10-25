@@ -12,7 +12,7 @@ A diverse collection of mobile UI products designed using tools like Figma, Phot
 <img src="https://github.com/user-attachments/assets/d0d6cf57-570b-4ee9-887f-64f2c0a9e3bc" alt="IMG_7029" width="80%">
 
 
-3. Wallet App
+3. Crypto Wallet App
 
 <img src="https://github.com/user-attachments/assets/222936c9-08e2-480e-82ba-768dfd080e582" alt="IMG_7029" width="80%">
 
